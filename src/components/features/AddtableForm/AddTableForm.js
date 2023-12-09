@@ -1,6 +1,6 @@
 import { useDispatch } from "react-redux";
 import { addTableRequest } from "../../../redux/tableRedux";
-import SingleTable from "../SingleTableForm/SingleTableForm";
+import SingleTableForm from "../SingleTableForm/SingleTableForm";
 
 const AddTableForm = () => {
 

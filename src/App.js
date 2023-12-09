@@ -6,6 +6,9 @@ import { Route } from "react-router-dom";
 import { Routes } from "react-router-dom";
 import Header from "./components/views/Header/Header";
 
+import AddTable from "./components/views/AddTable/AddTable";
+import UpdateTable from "./components/views/UpdateTable/UpdateTable";
+
 
 const App = () => {
   return (
