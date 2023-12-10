@@ -4,6 +4,8 @@ import { Nav } from "react-bootstrap";
 import { NavLink } from "react-router-dom";
 import styles from "../NavBar/NavBar.module.scss"
 
+
+
 const NavBar = () => {
 
     return(

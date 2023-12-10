@@ -3,7 +3,7 @@ import { createStore, combineReducers, compose, applyMiddleware } from 'redux';
 
 import thunk from "redux-thunk";
 import tablesReducer from "./tableRedux";
-import initialState from "./intialState";
+import initialState from "./initialState" 
 import statusReducer from './optiosStatusRedux'
 
 const subreducers = {

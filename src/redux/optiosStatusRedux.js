@@ -1,5 +1,6 @@
-import { API_URL } from "../config";
+import { API_URL } from "./config";
 
+import (API_URL)
 
 //selectors
 export const getStatus = (state) => state.status;

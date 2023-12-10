@@ -1,5 +1,5 @@
 import shortid from "shortid";
-import { API_URL } from "../config";
+import { API_URL } from "./config";
 
 //selectors
 export const getAllTables = (state) => state.tables;
